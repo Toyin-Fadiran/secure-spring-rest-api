@@ -1,2 +1,1 @@
-# secure-spring-rest-api
-example springBoot App
+create_secure_spring_rest_api
