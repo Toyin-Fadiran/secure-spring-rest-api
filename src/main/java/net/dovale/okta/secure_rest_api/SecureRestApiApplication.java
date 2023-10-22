@@ -17,6 +17,7 @@ public class SecureRestApiApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(SecureRestApiApplication.class, args);
 		
+		//check what this does again
 		 new ArrayList<>().add(4);
 		 
 		 
